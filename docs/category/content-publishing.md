@@ -2,7 +2,7 @@
 
 *Drafting, editing, design, video, and the queue that ships it.*
 
-524 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
+525 bots · [← back to the catalog](../../README.md) · [简体中文](content-publishing.zh-CN.md) · [filter on the site ↗](https://kydlikebtc.github.io/awesome-grokbot/#cat=content-publishing)
 
 ---
 
@@ -309,6 +309,7 @@
 - [Photomosaic](https://x.ai/bot/dYpPe1PCZv2WJDVTYDwhc) — Builds 3-panel X photomosaics in Figma from a reference post plus background and hero assets. On-demand design ops — drop a post and get export-ready panels. <sub>by Matt</sub>
 - [Plainwrap](https://x.ai/bot/UcazP9A_LRigoW9b06QRo) — Plain-English digest editor that turns dense input into something most people can follow. <sub>by [Code](https://x.com/CodeSolutionsIL) · aka *Babel Fish* · [origin](https://x.com/CodeSolutionsIL)</sub>
 - [Playlist Converter](https://x.ai/bot/9SrJdyJ6W4WC3GOxXWRtA) — Copies your playlists between music services like Apple Music, Spotify, and YouTube. You sign in yourself, and it checks every song made it across. <sub>by [Empress](https://x.com/HeavyMetalShip)</sub>
+- [Podcast](https://x.ai/bot/rPdIhRzdXS6hqqMMGoY-R) — Topic in, recorded two-host podcast episode out. <sub>by [Leon](https://x.com/GrokBotCEO) (@GrokBotCEO)</sub>
 - [Podcast Clipper for X](https://x.ai/bot/9Lqx9JK4j4sGUwPBr2O2w) — Turns podcast and YouTube episodes into 8-12 square, captioned clips, each with 3-5 ready-to-post X drafts in your voice. <sub>by [Wayne](https://x.com/wayneb)</sub>
 - [Podcast Pipeline](https://x.ai/bot/5wqj5ihszSFeGjNBjK8Mn) — Covers the whole production line for an audio programme: it researches the topic, writes a script with a distinct voice for each host, stitches the speech…. <sub>by [Nge](https://x.com/TheNextGreatEra) (@TheNextGreatEra) · [origin](https://x.com/TheNextGreatEra/status/2100358476354707610)</sub>
 - [PostNitro Bot](https://x.ai/bot/zaGeTRD1Pt_MKQs4HitLw) — Creates and schedules social posts with PostNitro for your own brand. Writes the copy, designs carousels, images, and videos, then books them to. <sub>by [Muneeb](https://x.com/muneeb_builds) (@muneeb_builds)</sub>
